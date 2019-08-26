@@ -53,6 +53,20 @@
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="569afe7d47bf04fbd1408c8275d1080ffb13779f" datatype="html">
+        <source>This is the first string added to branch3.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="acbf89100343b9ac8328b31b559a49e4f98304ec" datatype="html">
+        <source>This is the second string added to branch3.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
     </body>
   </file>
 </xliff>
