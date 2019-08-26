@@ -38,11 +38,19 @@
     Bienvenue sur <x id="INTERPOLATION" equiv-text="{{ title }}"/>!
   </target>
       </trans-unit>
+      <trans-unit id="0fc0bf705ed839043aef7335dbd5ee8b62b8fdda" datatype="html">
+        <source>This is a previously translated string #1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <target state="needs-translation">This is a previously translated string #1</target>
+      </trans-unit>
       <trans-unit id="54f29f9a6da150fc7c4fcd0b7e6d9a1b0314fd35" datatype="html">
         <source>Here are some links to help you start: </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">11</context>
+          <context context-type="linenumber">12</context>
         </context-group>
         <target state="translated">Voici quelques liens pour vous aider à démarrer : </target>
       </trans-unit>
@@ -50,7 +58,7 @@
         <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Tour of Heroes<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">14</context>
+          <context context-type="linenumber">15</context>
         </context-group>
         <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Tour des Héros<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
       </trans-unit>
@@ -58,7 +66,7 @@
         <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>CLI Documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">17</context>
+          <context context-type="linenumber">18</context>
         </context-group>
         <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Documentation CLI<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
       </trans-unit>
@@ -66,7 +74,7 @@
         <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Angular blog<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">21</context>
         </context-group>
         <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>blog Angulaire<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
       </trans-unit>
