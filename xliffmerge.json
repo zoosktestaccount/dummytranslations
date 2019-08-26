@@ -1,0 +1,9 @@
+{
+    "xliffmergeOptions": {
+        "srcDir": "src",
+        "genDir": "src/locale",
+        "defaultLanguage": "en",
+        "languages": ["en-US"],
+        "useSourceAsTarget": true
+    }
+}
