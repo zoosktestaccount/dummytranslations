@@ -3,7 +3,11 @@
         "srcDir": "src",
         "genDir": "src/locale",
         "defaultLanguage": "en",
+<<<<<<< HEAD
         "languages": ["en-US", "de-DE", "en-GB", "en-UD", "en-US", "fr-FR", "ja-JP"],
+=======
+        "languages": ["en-US"],
+>>>>>>> Extracted strings from master as d35d0359c95b176636229080bae24bb1ce93e741
         "useSourceAsTarget": true
     }
 }
