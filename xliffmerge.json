@@ -4,10 +4,14 @@
         "genDir": "src/locale",
         "defaultLanguage": "en",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "languages": ["en-US", "de-DE", "en-GB", "en-UD", "en-US", "fr-FR", "ja-JP"],
 =======
         "languages": ["en-US"],
 >>>>>>> Extracted strings from master as d35d0359c95b176636229080bae24bb1ce93e741
+=======
+        "languages": ["en-US", "de-DE", "en-GB", "en-UD", "en-US", "fr-FR", "ja-JP"],
+>>>>>>> Extracted strings from master as b8a72f7af37f2e7e3449950f20bc8469454d704f
         "useSourceAsTarget": true
     }
 }
