@@ -3,7 +3,7 @@
         "srcDir": "src",
         "genDir": "src/locale",
         "defaultLanguage": "en",
-        "languages": ["en-US"],
+        "languages": ["en-US", "de-DE", "en-GB", "en-UD", "en-US", "fr-FR", "ja-JP"],
         "useSourceAsTarget": true
     }
 }
