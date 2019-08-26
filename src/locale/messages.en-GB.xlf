@@ -16,7 +16,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">This is the second string added to master.</target>
+        <target state="translated">This is the second string added to master.</target>
       </trans-unit>
       <trans-unit id="45ecb7dd14b34b0a525e55b27348d1bcb4407f3a" datatype="html">
         <source>master string #3</source>
