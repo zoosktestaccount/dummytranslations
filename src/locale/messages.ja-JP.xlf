@@ -8,7 +8,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target state="needs-translation">This is the master branch</target>
+        <target state="translated"> これはマスターブランチです</target>
       </trans-unit>
       <trans-unit id="7e07cbf2ac6a209ce13b4638ecb43bbd3c97b3d6" datatype="html">
         <source>This is the second string added to master.</source>
