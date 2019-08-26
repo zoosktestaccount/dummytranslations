@@ -62,21 +62,21 @@
         </context-group>
         <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Angular blog<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
       </trans-unit>
-      <trans-unit id="569afe7d47bf04fbd1408c8275d1080ffb13779f" datatype="html">
+      <trans-unit id="569afe7d47bf04fbd1408c8275d1080ffb13779f" datatype="html" approved="yes">
         <source>This is the first string added to branch3.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">This is the first string added to branch3.</target>
+        <target state="translated">This is the first string added to branch3.</target>
       </trans-unit>
-      <trans-unit id="acbf89100343b9ac8328b31b559a49e4f98304ec" datatype="html">
+      <trans-unit id="acbf89100343b9ac8328b31b559a49e4f98304ec" datatype="html" approved="yes">
         <source>This is the second string added to branch3.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">21</context>
         </context-group>
-        <target state="needs-translation">This is the second string added to branch3.</target>
+        <target state="translated">This is the second string added to branch3.</target>
       </trans-unit>
     </body>
   </file>
